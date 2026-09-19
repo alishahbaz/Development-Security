@@ -49,11 +49,11 @@ flowchart TD
 
 | Page | Purpose |
 |------|---------|
-| [Safeguard Source Code Integrity](Safeguard-Source-Code-Integrity) | Branch protection, PR review, credentials |
-| [DevOps Toolchain Access Control](DevOps-Toolchain-Access-Control) | Tool access, SBOM, MFA, re-assessment |
-| [Supply Chain Malware Scanning](Software-Supply-Chain-Malware-Scanning) | Pipeline malware scanning |
-| [Compliance and Evidence](Compliance-and-Evidence) | Done criteria, validation, Sirius upload |
-| [Exception Process](Exception-Process) | Non-compliance examples and process |
-| [Glossary](Glossary) | Key terms explained |
+| [Safeguard Source Code Integrity](https://github.com/alishahbaz/Development-Security/wikiSafeguard-Source-Code-Integrity) | Branch protection, PR review, credentials |
+| [DevOps Toolchain Access Control](https://github.com/alishahbaz/Development-Security/wikiDevOps-Toolchain-Access-Control) | Tool access, SBOM, MFA, re-assessment |
+| [Supply Chain Malware Scanning](https://github.com/alishahbaz/Development-Security/wikiSoftware-Supply-Chain-Malware-Scanning) | Pipeline malware scanning |
+| [Compliance and Evidence](https://github.com/alishahbaz/Development-Security/wikiCompliance-and-Evidence) | Done criteria, validation, Sirius upload |
+| [Exception Process](https://github.com/alishahbaz/Development-Security/wikiException-Process) | Non-compliance examples and process |
+| [Glossary](https://github.com/alishahbaz/Development-Security/wikiGlossary) | Key terms explained |
 
 ---
